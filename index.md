@@ -1,3 +1,3 @@
 # Welcome to my blog
-
+This is my new blog, great day to start blogging.
 I'm glad you are here. I plan to talk about ...
